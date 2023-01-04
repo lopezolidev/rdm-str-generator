@@ -18,6 +18,6 @@ const messages = [
     console.log(`\x1b[34m${message}\x1b[89m`);
   }
   
-  module.exports = {
+  export default {
     funnyCommit
   };
