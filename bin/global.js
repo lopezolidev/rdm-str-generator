@@ -1,6 +1,6 @@
 #!/usr/bin/env/ node
 //instructions for node
 
-import random from '../src/index.js';
+let random = require('../src/index.js');
 
 random.funnyCommit();

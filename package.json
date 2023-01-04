@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/sergioiscoding/rdm-str-generator.git"
   },
-  "keywords": ["npm", "node", "education"],
+  "keywords": [
+    "npm",
+    "node",
+    "education"
+  ],
   "author": "Sergio Lopez <olivera9806@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -18,7 +22,7 @@
   },
   "homepage": "https://github.com/sergioiscoding/rdm-str-generator#readme",
   "bin": {
-  "rdm-str-generator": "./bin/global.js"
+    "rdm-str-generator": "./bin/global.js"
   },
   "preferGlobal": true
 }
