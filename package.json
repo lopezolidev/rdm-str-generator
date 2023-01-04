@@ -1,0 +1,24 @@
+{
+  "name": "rdm-str-generator",
+  "version": "1.0.0",
+  "description": "A package to generate random strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioiscoding/rdm-str-generator.git"
+  },
+  "keywords": ["npm", "node", "education"],
+  "author": "Sergio Lopez <olivera9806@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergioiscoding/rdm-str-generator/issues"
+  },
+  "homepage": "https://github.com/sergioiscoding/rdm-str-generator#readme",
+  "bin": {
+  "rdm-str-generator": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
