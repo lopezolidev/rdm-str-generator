@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/sergioiscoding/rdm-str-generator#readme",
   "bin": {
-    "rdm-str-generator": "./bin/global.js"
+    "random-str-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
